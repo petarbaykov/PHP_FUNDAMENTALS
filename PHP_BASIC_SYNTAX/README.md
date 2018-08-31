@@ -1,0 +1,1 @@
+Solutions of the exercises from Course PHP Fundamentals in Softuni
